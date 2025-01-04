@@ -1,6 +1,6 @@
 # Assignment: News Dashboard
 
--by Mohit Sharma 2K21/EC/133
+-by Mallika 2K21/EC/133
 
 ## About The Project
 
